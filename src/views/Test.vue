@@ -1,6 +1,7 @@
 <template>
     <div class="test">
         <h1>test</h1>
+        <p>do some change</p>
     </div>
 </template>
 
